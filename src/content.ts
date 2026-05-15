@@ -99,7 +99,7 @@ export const details: Record<Category["id"], DetailContent> = {
       {
         title: "O que fazer em casa",
         items: [
-          "Observar volume e frequencia do sangramento",
+          "Observe o volume e a frequencia do sangramento",
           "Anotar relacao com medicamentos ou inicio de metodos contraceptivos",
           "Evitar relacoes sexuais ate avaliacao se o sangramento for repetido"
         ]
